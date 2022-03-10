@@ -42,6 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\Device.cs" />
+    <Compile Include="Entities\DeviceManager.cs" />
+    <Compile Include="Enums\Enums.cs" />
+    <Compile Include="Interfaces\IDevice.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
